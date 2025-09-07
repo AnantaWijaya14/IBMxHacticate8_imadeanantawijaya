@@ -56,7 +56,7 @@ Dataset yang digunakan berasal dari Kaggle:\
 
 Distribusi sentimen hasil prediksi:
 
-![sentiment-distribution](assets/sentiment_distribution.png)
+![sentiment-distribution](sentiment_distribution.png)
 
 ## 💡 Insight & Rekomendasi
 
